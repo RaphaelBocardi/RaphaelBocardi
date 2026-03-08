@@ -1,4 +1,5 @@
 # About Raphael Bocardi
+[🇧🇷 Leia isto em Português](README.pt-br.md)
 
 I am a Senior Quality Inspector currently transitioning into the technology field through a Bachelor's in **Computer Engineering**. My career is driven by a natural passion for **troubleshooting** and a deep curiosity about how complex systems work, from **hardware architecture to system-level logic**.
 
