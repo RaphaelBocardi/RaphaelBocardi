@@ -10,8 +10,8 @@ Estou constantemente em busca de novas experiências e oportunidades para desenv
 ---
 
 ### 📋 Detalhes
-* **Perfil:** 31 anos | Brasileiro
-* **Educação:** (Engenharia de Computação, 2º Sem) <a href="https://univesp.br/"><img src="https://img.shields.io/badge/UNIVESP-%23D32F2F?style=flat&logoColor=white" alt="Univesp" align="center"></a>
+* **Perfil:** 32 anos | Brasileiro
+* **Educação:** (Engenharia de Computação, 3º Sem) <a href="https://univesp.br/"><img src="https://img.shields.io/badge/UNIVESP-%23D32F2F?style=flat&logoColor=white" alt="Univesp" align="center"></a>
 * **Cargo Atual:** Inspetor de Qualidade Sênior
 * **Ambiente:** Linux (Zorin OS)
 * **Localização:** Rio Claro, SP, Brasil
