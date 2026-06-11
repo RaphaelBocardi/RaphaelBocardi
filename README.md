@@ -10,8 +10,8 @@ I am constantly seeking new experiences and opportunities to further develop my 
 ---
 
 ### 📋 Details
-* **Profile:** 31 years old | Brazilian
-* **Education:** (Computer Engineering, 2nd Sem) <a href="https://univesp.br/"><img src="https://img.shields.io/badge/UNIVESP-%23D32F2F?style=flat&logoColor=white" alt="Univesp" align="center"></a>
+* **Profile:** 32 years old | Brazilian
+* **Education:** (Computer Engineering, 3rd Sem) <a href="https://univesp.br/"><img src="https://img.shields.io/badge/UNIVESP-%23D32F2F?style=flat&logoColor=white" alt="Univesp" align="center"></a>
 * **Current Role:** Senior Quality Inspector
 * **Environment:** Linux (Zorin OS)
 * **Location:** Rio Claro, SP, Brazil
